@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kkkevin1986, I'm a staff of local goverment and also a graduate student of MPA.
 - 👀 I’m interested in traveling,music and cooking.
-- 🌱 I’m currently learning Python,Objective C and Public Management with graduate lessons in Hunan University of Chinese Medicine.
+- 🌱 I’m currently learning Python,Objective C and Public Management with graduate lessons.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me sending e-mail to kevincs@foxmail.com
 
